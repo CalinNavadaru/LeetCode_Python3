@@ -4,7 +4,7 @@ This repository contains my Python3 solutions to various problems from LeetCode.
 
 ## File Structure
 - Each solution is a `.py` file.
-- Filenames usually follow the format: `problem_number_problem_name.py`.
+- Filenames usually follow the format: `problem_number.py`.
 
 ## Usage
 - Browse the files to see my solutions for each LeetCode problem.
